@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **00857146@email.ntou.edu.tw**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allen3325&show_icons=true&locale=en" alt="allen3325" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allen3325&" alt="allen3325" /></p>
+
