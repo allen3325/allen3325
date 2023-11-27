@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allen3325" alt="allen3325" /></a> </p>
 
-- 🔭 I’m currently working on [NoteShare](https://github.com/allen3325/NoteShareDevBackend)
+- 🔭 I’m currently working on [PttSocialEngine(Demo Video)](https://youtu.be/w4JUcbv-jlQ)
 
-- 🌱 I’m currently learning **Java and Spring and more...**
+- 📖 I’m currently learning at **[NCHU NLP LAB](https://nlpnchu.org/)**
+
+- 🌱 I’m currently learning **NLP and Backend/Frontend/DevOps Skills and more...**
 
 - 📝 I regularly write articles on [https://allen3325.github.io/](https://allen3325.github.io/)
 
-- 📫 How to reach me **00857146@email.ntou.edu.tw**
+- 📫 How to reach me **zhangzhewei168@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
