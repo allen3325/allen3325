@@ -3,19 +3,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allen3325" alt="allen3325" /></a> </p>
 
-- 🔭 I’m currently working on [PttSocialEngine(Demo Video)](https://youtu.be/w4JUcbv-jlQ)
+I'm an LLM/NLP Engineer working on inference optimization.
 
-- 💼 I’m currently an intern at **LINE Central-Dev Team**.
+- 🔭 I’m currently an LLM inference engineer at **Delta Research Center**.
+- 📖 I graduated from **[NCHU NLP LAB](https://nlpnchu.org/)**.
+- 🌱 I’m currently learning **LLM, Backend/Frontend, DevOps skills, and more...**
+- 💼 I was previously an intern at **LINE Central-Dev Team**.
 
-- 🔗 Here is my **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/allen-chang-baomovie)
+---
 
-- 📖 I’m currently learning at **[NCHU NLP LAB](https://nlpnchu.org/)**
-
-- 🌱 I’m currently learning **NLP and Backend/Frontend/DevOps Skills and more...**
-
-- 📝 I regularly write articles on [https://allen3325.github.io/](https://allen3325.github.io/)
-
-- 📫 How to reach me **zhangzhewei168@gmail.com**
+- 📝 I regularly write articles on [my blog](https://allen3325.github.io/).
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/allen-chang-baomovie)**.
+- 📫 How to reach me: **zhangzhewei168@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
